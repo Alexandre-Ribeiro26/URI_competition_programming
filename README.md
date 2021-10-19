@@ -1,2 +1,2 @@
-# URI_programa-o_competitiva
+# URI_competition_programming
 Questions Resolutions with Python and C++
